@@ -7,7 +7,7 @@
     <img 
         src = "https://github.com/Mr-Crux-Ansata/Mr-Crux-Ansata/blob/ed41d7aeb70ac7ddd580831d3c6f72a95ff8fcc0/background_read3.png" 
         alt ="Banner" 
-        width = "900">
+        width = "100%">
     </div>
 </body>
 
