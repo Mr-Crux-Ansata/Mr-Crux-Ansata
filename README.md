@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html lang = "en">
 <head>
-    <title>Mr-Crux-Ansata</title>
 </head>
 <body>
+    <p align = "center">
     <h1>Probando</h1>
-    <img src = "background_read3.png" alt ="Banner" width = "700" >
+    <img src = "https://github.com/Mr-Crux-Ansata/Mr-Crux-Ansata/blob/ed41d7aeb70ac7ddd580831d3c6f72a95ff8fcc0/background_read3.png" alt ="Banner" width = "700" >
+    </p>
 </body>
 
 
