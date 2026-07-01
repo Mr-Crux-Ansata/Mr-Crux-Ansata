@@ -5,7 +5,7 @@
 </head>
 <body>
     <h1>Probando</h1>
-    <img source = "https://github.com/Mr-Crux-Ansata/Mr-Crux-Ansata/blob/main/background_read3.png">
+    <img src = "background_read3.png" alt ="Banner" width = "700" >
 </body>
 
 
