@@ -9,6 +9,11 @@
         alt ="Banner" 
         width = "100%">
     </div>
+    <img
+        src = "https://github.com/Mr-Crux-Ansata/Mr-Crux-Ansata/blob/9e138b4ba6404b76b2432cd62f562f0f7cb777fe/yo5.png"
+        alt = "Self portrait pixel"
+        width = "300">
+    
 </body>
 
 
