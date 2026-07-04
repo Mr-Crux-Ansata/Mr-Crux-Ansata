@@ -12,7 +12,7 @@
     <img width = "40">
 
     <img
-        src = "dialogue box2.gif"
+        src = "dialogue_box2.gif"
         alt = "Dialogue"
         width = "100%">
     
