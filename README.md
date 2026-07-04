@@ -8,15 +8,21 @@
         src = "https://github.com/Mr-Crux-Ansata/Mr-Crux-Ansata/blob/ed41d7aeb70ac7ddd580831d3c6f72a95ff8fcc0/background_read3.png" 
         alt ="Banner" 
         width = "100%">
+    
+    </div>
 
     <br></br>
+
+    <div align = "center">
 
     <img
         src = "https://github.com/Mr-Crux-Ansata/Mr-Crux-Ansata/blob/3825a38cf28bdd640e5a1fa41c6e7fa070f9941d/dialogue_box2.gif"
         alt = "Dialogue"
         width = "100%">
-    
+
     </div>
+    
+    
     
 </body>
 
