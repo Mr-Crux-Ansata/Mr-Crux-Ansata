@@ -9,7 +9,7 @@
         alt ="Banner" 
         width = "100%">
 
-    <img width = "40">
+    <br></br>
 
     <img
         src = "dialogue_box2.gif"
