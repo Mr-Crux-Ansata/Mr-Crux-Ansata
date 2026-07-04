@@ -8,11 +8,15 @@
         src = "https://github.com/Mr-Crux-Ansata/Mr-Crux-Ansata/blob/ed41d7aeb70ac7ddd580831d3c6f72a95ff8fcc0/background_read3.png" 
         alt ="Banner" 
         width = "100%">
-    </div>
+
+    <img width = "40">
+
     <img
-        src = "https://github.com/Mr-Crux-Ansata/Mr-Crux-Ansata/blob/9e138b4ba6404b76b2432cd62f562f0f7cb777fe/yo5.png"
-        alt = "Self portrait pixel"
-        width = "300">
+        src = "dialogue box2.gif"
+        alt = "Dialogue"
+        width = "100%">
+    
+    </div>
     
 </body>
 
