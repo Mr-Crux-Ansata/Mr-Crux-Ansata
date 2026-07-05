@@ -9,15 +9,15 @@
 
 <br>
 
-<table border = "0" align = "center" cellspacing = "0" cellpadding = "0" width = "100%">
+<table style = "border:none;" align = "center" cellspacing = "0" cellpadding = "0" width = "100%">
     <tr>
-        <td align = "center" width = "33.33%>
+        <td align = "center" width = "33.33%" style = border:none;">
             <a href="https://www.facebook.com/share/19677LpPK6/"> <img src = "facebook_button.png" width = "100%" alt = "Mi Facebook" ></a>
         </td>
-        <td align = "center" width = "33.33%>
+        <td align = "center" width = "33.33%" style = border:none;">
             <a href = "https://www.instagram.com/thesilvercruz?igsh=MWFraDlrMGY2cHFwMA=="> <img src = "insta_button.png" width = "100%" alt = "Mi Instagram"></a>
         </td>
-        <td align = "center" width = "33.33%">
+        <td align = "center" width = "33.33%" style = border:none;">
             <a href = "https://www.linkedin.com/in/ilse-paola-cruz-fernández-539128369?utm_source=share_via&utm_content=profile&utm_medium=member_android"> <img src = "linkedin_button.png" width = "100%" alt = "Mi LinkedIn"> </a>
         </td>
     </tr>
