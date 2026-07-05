@@ -12,21 +12,21 @@
     <img
         src="./facebook_button.png"
         alt="Mi Facebook"
-        width="33%">
+        width="32%">
 </a>
 
 <a href="https://www.instagram.com/thesilvercruz">
     <img
         src="./insta_button.png"
         alt="Mi Instagram"
-        width="33%">
+        width="32%">
 </a>
 
 <a href="https://www.linkedin.com/in/ilse-paola-cruz-fernández-539128369">
     <img
         src="./linkedin_button.png"
         alt="Mi LinkedIn"
-        width="33%">
+        width="32%">
 </a>
 
 </div>
