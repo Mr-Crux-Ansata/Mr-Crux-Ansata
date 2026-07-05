@@ -9,10 +9,10 @@
 
 
 <div align = "center">
-	<a ref = https://www.facebook.com/share/19677LpPK6/" <img src = "./facebook_button.png" width = "33.33%" alt = "Mi Facebook"></a> 
+	<a ref = https://www.facebook.com/share/19677LpPK6/" <img src = "./facebook_button.png" width = "33.33%" alt = "Mi Facebook"></a> </div>
 
 <div align = "center">
-	<a ref = "https://www.instagram.com/thesilvercruz" <img src = "./facebook_button.png" width = "33.33%" alt = "Mi Instagram"></a> 
+	<a ref = "https://www.instagram.com/thesilvercruz" <img src = "./facebook_button.png" width = "33.33%" alt = "Mi Instagram"></a> </div>
 
 
 <div align = "center">
