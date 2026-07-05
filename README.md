@@ -9,11 +9,11 @@
 
 
 <div align = "center">
-            <a href="https://www.facebook.com/share/19677LpPK6/"> <img src = "https://github.com/Mr-Crux-Ansata/Mr-Crux-Ansata/blob/d38fe7df557f8487b768cecfafd9a0934c05d644/facebook_button.png" width = "33.33%" alt = "Mi Facebook" ></a>
+            <a href="https://www.facebook.com/share/19677LpPK6/"> <img src = "./facebook_button.png" width = "33.33%" alt = "Mi Facebook" ></a>
             
-            <a href = "https://www.instagram.com/thesilvercruz"> <img src = "https://github.com/Mr-Crux-Ansata/Mr-Crux-Ansata/blob/d38fe7df557f8487b768cecfafd9a0934c05d644/insta_button.png" width = "33.33%" alt = "Mi Instagram"></a>
+            <a href = "https://www.instagram.com/thesilvercruz"> <img src = "./insta_button.png" width = "33.33%" alt = "Mi Instagram"></a>
 
-            <a href = "https://www.linkedin.com/in/ilse-paola-cruz-fern%C3%A1ndez-539128369?"> <img src = "https://github.com/Mr-Crux-Ansata/Mr-Crux-Ansata/blob/d38fe7df557f8487b768cecfafd9a0934c05d644/linkedin_button.png" width = "33.33%" alt = "Mi LinkedIn"> </a>
+            <a href = "https://www.linkedin.com/in/ilse-paola-cruz-fern%C3%A1ndez-539128369?"> <img src = "./linkedin_button.png" width = "33.33%" alt = "Mi LinkedIn"> </a>
   
 </div>
          
