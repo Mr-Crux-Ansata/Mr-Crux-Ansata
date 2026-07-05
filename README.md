@@ -9,16 +9,16 @@
 
 <br>
 
-<table border = "0" align "center" cellspacing = "0" cellpadding = "0" width = "100%">
+<table border = "0" align = "center" cellspacing = "0" cellpadding = "0" width = "100%">
     <tr>
-        <td>
-            <a href="https://www.facebook.com/share/19677LpPK6/"> <img src = "facebook_button.png" width = "33%" alt = "Mi Facebook" ></a>
+        <td align = "center" width = "33.33%>
+            <a href="https://www.facebook.com/share/19677LpPK6/"> <img src = "facebook_button.png" width = "100%" alt = "Mi Facebook" ></a>
         </td>
-        <td>
-            <a href = "https://www.instagram.com/thesilvercruz?igsh=MWFraDlrMGY2cHFwMA=="> <img src = "insta_button.png" width = "33%" alt = "Mi Instagram"></a>
+        <td align = "center" width = "33.33%>
+            <a href = "https://www.instagram.com/thesilvercruz?igsh=MWFraDlrMGY2cHFwMA=="> <img src = "insta_button.png" width = "100%" alt = "Mi Instagram"></a>
         </td>
-        <td>
-            <a href = "https://www.linkedin.com/in/ilse-paola-cruz-fernández-539128369?utm_source=share_via&utm_content=profile&utm_medium=member_android"> <img src = "linkedin_button.png" width = "33%" alt = "Mi LinkedIn"> </a>
+        <td align = "center" width = "33.33%">
+            <a href = "https://www.linkedin.com/in/ilse-paola-cruz-fernández-539128369?utm_source=share_via&utm_content=profile&utm_medium=member_android"> <img src = "linkedin_button.png" width = "100%" alt = "Mi LinkedIn"> </a>
         </td>
     </tr>
 </table>
