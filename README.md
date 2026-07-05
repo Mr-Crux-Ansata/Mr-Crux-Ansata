@@ -5,31 +5,27 @@
         width="100%">
 </div>
 
-<div align="center" width = "100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="left">
+      <a href="https://www.facebook.com/share/19677LpPK6/">
+        <img src="./facebook_button.png" width="180" alt="Mi Facebook">
+      </a>
+    </td>
 
+    <td align="center">
+      <a href="https://www.instagram.com/thesilvercruz">
+        <img src="./insta_button.png" width="180" alt="Mi Instagram">
+      </a>
+    </td>
 
-<a href="https://www.facebook.com/share/19677LpPK6/">
-    <img
-        src="./facebook_button.png"
-        alt="Mi Facebook"
-        width="32%">
-</a>
-
-<a href="https://www.instagram.com/thesilvercruz">
-    <img
-        src="./insta_button.png"
-        alt="Mi Instagram"
-        width="32%">
-</a>
-
-<a href="https://www.linkedin.com/in/ilse-paola-cruz-fernández-539128369">
-    <img
-        src="./linkedin_button.png"
-        alt="Mi LinkedIn"
-        width="32%">
-</a>
-
-</div>
+    <td align="right">
+      <a href="https://www.linkedin.com/in/ilse-paola-cruz-fernández-539128369">
+        <img src="./linkedin_button.png" width="180" alt="Mi LinkedIn">
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
