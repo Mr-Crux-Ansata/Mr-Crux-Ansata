@@ -9,11 +9,11 @@
 
 
 <p align = "center">
-            <a href="https://www.facebook.com/share/19677LpPK6/"> <img src = "facebook_button.png" width = "100%" alt = "Mi Facebook" ></a>
+            <a href="https://www.facebook.com/share/19677LpPK6/"> <img src = "facebook_button.png" width = "33.33%" alt = "Mi Facebook" ></a>
 
-            <a href = "https://www.instagram.com/thesilvercruz?igsh=MWFraDlrMGY2cHFwMA=="> <img src = "insta_button.png" width = "100%" alt = "Mi Instagram"></a>
+            <a href = "https://www.instagram.com/thesilvercruz?igsh=MWFraDlrMGY2cHFwMA=="> <img src = "insta_button.png" width = "33.33%" alt = "Mi Instagram"></a>
 
-            <a href = "https://www.linkedin.com/in/ilse-paola-cruz-fernández-539128369?utm_source=share_via&utm_content=profile&utm_medium=member_android"> <img src = "linkedin_button.png" width = "100%" alt = "Mi LinkedIn"> </a>
+            <a href = "https://www.linkedin.com/in/ilse-paola-cruz-fernández-539128369?utm_source=share_via&utm_content=profile&utm_medium=member_android"> <img src = "linkedin_button.png" width = "33.33%" alt = "Mi LinkedIn"> </a>
   
 </p>
          
