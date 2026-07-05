@@ -6,6 +6,24 @@
         width = "100%">
     
 </div>
+
+<br>
+
+<table border = "0" align "center">
+    <tr>
+        <td>
+            <a href=""> <img src = "facebook_button.png" width = "150" alt = "Mi Facebook" ></a>
+        </td>
+        <td>
+            <a href = ""> <img src = "instagram_button.png" width = "150" alt = "Mi Instagram"></a>
+        </td>
+        <td>
+            <a href = ""> <img src = "linkedin_button.png" width = "150" alt = "Mi LinkedIn"> </a>
+        </td>
+    </tr>
+</table>
+         
+
 <br>
     <img
         src = "https://github.com/Mr-Crux-Ansata/Mr-Crux-Ansata/blob/3825a38cf28bdd640e5a1fa41c6e7fa070f9941d/dialogue_box2.gif"
