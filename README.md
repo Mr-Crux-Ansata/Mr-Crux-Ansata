@@ -35,6 +35,11 @@
 
 <br>
 
+<img 
+    src = "./pixel-art.gif"
+    alt = "Text"
+    width = "80%">
+
 <img
     src="./dialogue_box2.gif"
     alt="Dialogue"
