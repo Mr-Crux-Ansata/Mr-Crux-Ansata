@@ -10,21 +10,21 @@
 <div align="center" width = "100%">
 
 
-<a href="https://www.facebook.com/share/19677LpPK6/">
+<a href="https://www.facebook.com/share/19677LpPK6/" target = "_blank">
     <img
         src="./facebook_button.png"
         alt="Mi Facebook"
         width="32%">
 </a>
 
-<a href="https://www.instagram.com/thesilvercruz">
+<a href="https://www.instagram.com/thesilvercruz" target = "_blank">
     <img
         src="./insta_button.png"
         alt="Mi Instagram"
         width="32%">
 </a>
 
-<a href="https://www.linkedin.com/in/ilse-paola-cruz-fernández-539128369">
+<a href="https://www.linkedin.com/in/ilse-paola-cruz-fernández-539128369" target = "_blank">
     <img
         src="./linkedin_button.png"
         alt="Mi LinkedIn"
