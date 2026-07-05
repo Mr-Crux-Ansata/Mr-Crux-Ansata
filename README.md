@@ -5,24 +5,30 @@
         width="100%">
 </div>
 
-
 <div align="center">
-    <a href="https://www.facebook.com/share/19677LpPK6/">
-        <img src="./facebook_button.png" width="33.33%" alt="Mi Facebook">
-    </a>
-</div>
 
 
-<div align="center">
-    <a href="https://www.instagram.com/thesilvercruz">
-        <img src="./insta_button.png" width="33.33%"="Mi Instagram">
-    </a>
-</div>
+<a href="https://www.facebook.com/share/19677LpPK6/">
+    <img
+        src="./facebook_button.png"
+        alt="Mi Facebook"
+        width="33.33%">
+</a>
 
-<div align="center">
-    <a href="https://www.linkedin.com/in/ilse-paola-cruz-fernández-539128369">
-        <img src="./linkedin_button.png" width="33.33%" alt="Mi LinkedIn">
-    </a>
+<a href="https://www.instagram.com/thesilvercruz">
+    <img
+        src="./insta_button.png"
+        alt="Mi Instagram"
+        width="33.33%">
+</a>
+
+<a href="https://www.linkedin.com/in/ilse-paola-cruz-fernández-539128369">
+    <img
+        src="./linkedin_button.png"
+        alt="Mi LinkedIn"
+        width="33.33%">
+</a>
+
 </div>
 
 <br>
