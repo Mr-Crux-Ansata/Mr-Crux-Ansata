@@ -17,5 +17,5 @@ Output #0, gif, to 'C:/Users/ipaol/Mr-Crux-Ansata/dialogue_box2.gif':
   Stream #0:0: Video: gif, pal8(pc, gbr/unknown/unknown, progressive), 720x560 [SAR 1:1 DAR 9:7], q=2-31, 200 kb/s, 3 fps, 100 tbn
       Metadata:
         encoder         : Lavc61.19.101 gif
-[out#0/gif @ 000001a26f15cc40] video:212KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.009204%
-frame=    4 fps=0.0 q=-0.0 Lsize=     212KiB time=00:00:01.33 bitrate=1303.9kbits/s speed=10.3x    
+[out#0/gif @ 000002325b13bd00] video:212KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.009207%
+frame=    4 fps=0.0 q=-0.0 Lsize=     212KiB time=00:00:01.33 bitrate=1303.5kbits/s speed=  13x    
