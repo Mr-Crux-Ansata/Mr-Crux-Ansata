@@ -48,14 +48,19 @@
 
         </td>
         <td>
+    <p>
+        I'm a Computer Engineering student with a strong interest in Digital Design,
+        Computer Architecture, Semiconductors, and Low-Level Systems.
+    </p>
 
-        I'm a Computer Engineering student with a strong interest in...
+    <p>
+        You'll very often find me at hackathons, as apparently, I love torturing my poor neurons for the sake of the game.
+    </p>
 
-        You'll often find me at hackathons...
-
-        Jokes aside...
-
-        </td>
+    <p>
+        Jokes aside, I have a constant urge to create, so I love to participate in projects that test my abilities and push me to learn and adapt.
+    </p>
+</td>
     </tr>
 </table>
 
