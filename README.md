@@ -42,9 +42,38 @@
 
 <br>
 
-| | |
-|---|---|
-| ![](./dialogue_box2.gif) | **I'm a Computer Engineering student** with a strong interest in Digital Design, Computer Architecture, Semiconductors, and Low-Level Systems.<br><br>You'll very often find me at hackathons, as apparently, I love torturing my poor neurons for the sake of the game. Jokes aside, I have a constant urge to create, so I love to participate in projects that test my abilities and push me to learn and adapt. |
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="35%" valign="top">
+      <img
+        src="./dialogue_box2.gif"
+        alt="Dialogue"
+        width="100%">
+    </td>
+
+    <td width="65%" valign="top">
+      <p>
+        <strong>I'm a Computer Engineering student</strong> with a strong interest
+        in Digital Design, Computer Architecture, Semiconductors, and Low-Level
+        Systems.
+      </p>
+
+      <p>
+        You'll very often find me at hackathons because, apparently, I love
+        torturing my poor neurons for the sake of the challenge. Jokes aside, I
+        have a constant urge to create, so I'm always looking for projects that
+        test my abilities and push me to learn and adapt.
+      </p>
+
+      <p>
+        I also think of myself as multidisciplinary. Rather than staying within a
+        single field, I enjoy combining concepts from different areas into a
+        single project. After all, a system is made of interconnected pieces
+        working together to create something greater.
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br>
 
