@@ -42,7 +42,7 @@
 
 <br>
 
-<img src="./dialogue_box2.gif" width=500 align="left">
+<img src="./dialogue_box2.gif" width=500 align="left" hspace = "30">
 <div align="center">
 
 </div>
