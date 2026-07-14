@@ -39,8 +39,13 @@
     src = "./pixel-art.gif"
     alt = "Text"
     width = "80%">
-
+<div>
+    <img
+        src="./dialogue_box2.gif"
+        alt="Dialogue"
+        width="100%">
+</div>
 <img
-    src="./dialogue_box2.gif"
-    alt="Dialogue"
-    width="100%">
+    src="./rot.gif"
+    alt="rotation"
+    width="30%">
