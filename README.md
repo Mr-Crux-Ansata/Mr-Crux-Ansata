@@ -49,7 +49,7 @@
 
 <br><br><br><br>
 
-<font size="4">
+<font size="12">
 
 I’m a Computer Engineering student with a strong interest in Digital Design, Computer Architecture, Semiconductors, and Low-Level Systems. 
 
