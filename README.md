@@ -40,7 +40,6 @@
     alt = "Text"
     width = "80%">
 
-<br>
 <hr>
 
 <img src="./dialogue_box2.gif" width="65%" align="left" >
@@ -66,7 +65,7 @@ I also think of myself as multidisciplinary. Rather than staying in a single fie
 
 </div>
 
-<br clear="left">
+<hr>
 
 <br>
 <br>
