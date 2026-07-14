@@ -42,7 +42,7 @@
 
 <br>
 
-<img src="./dialogue_box2.gif" width="60%" align="left" >
+<img src="./dialogue_box2.gif" width="40%" align="left" >
 <div align="center">
 
 </div>
