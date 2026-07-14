@@ -54,7 +54,7 @@ You’ll very often find me at Hackatons, as apparently, I love torturing my poo
 </div>
 
 
-</br>
+<br>
 
 <div>
 I also think of myself as multidisciplinary. Rather than staying in a single field, I enjoy combining concepts from different areas into a single project. After all, a system is made from interconnected pieces that, all put together, make up for something greater.
