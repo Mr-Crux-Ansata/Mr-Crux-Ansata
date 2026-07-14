@@ -53,7 +53,7 @@
 
     <td width="65%" valign="top">
       <p>
-        <strong>I'm a Computer Engineering student</strong> with a strong interest
+        I'm a Computer Engineering student with a strong interest
         in Digital Design, Computer Architecture, Semiconductors, and Low-Level
         Systems.
       </p>
