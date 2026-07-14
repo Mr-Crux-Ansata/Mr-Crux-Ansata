@@ -2,7 +2,7 @@ C:/Program Files/Krita (x64)/bin/ffmpeg.exe -hide_banner -y -y -r 3 -start_numbe
 =====================================================
 Input #0, image2, from 'C:/Users/ipaol/Mr-Crux-Ansata/fotograma%04d.png':
   Duration: 00:00:00.16, start: 0.000000, bitrate: N/A
-  Stream #0:0: Video: png, rgba(pc, gbr/unknown/unknown), 760x560 [SAR 11811:11811 DAR 19:14], 25 fps, 25 tbr, 25 tbn
+  Stream #0:0: Video: png, rgba(pc, gbr/unknown/unknown), 720x560 [SAR 11811:11811 DAR 9:7], 25 fps, 25 tbr, 25 tbn
 Input #1, image2, from 'C:/Users/ipaol/Mr-Crux-Ansata/KritaTempPalettegen_%06d.png':
   Duration: 00:00:00.04, start: 0.000000, bitrate: N/A
   Stream #1:0: Video: png, rgba(pc, gbr/unknown/unknown), 16x16 [SAR 1:1 DAR 1:1], 25 fps, 25 tbr, 25 tbn
@@ -14,8 +14,8 @@ Press [q] to stop, [?] for help
 Output #0, gif, to 'C:/Users/ipaol/Mr-Crux-Ansata/dialogue_box2.gif':
   Metadata:
     encoder         : Lavf61.7.100
-  Stream #0:0: Video: gif, pal8(pc, gbr/unknown/unknown, progressive), 760x560 [SAR 1:1 DAR 19:14], q=2-31, 200 kb/s, 3 fps, 100 tbn
+  Stream #0:0: Video: gif, pal8(pc, gbr/unknown/unknown, progressive), 720x560 [SAR 1:1 DAR 9:7], q=2-31, 200 kb/s, 3 fps, 100 tbn
       Metadata:
         encoder         : Lavc61.19.101 gif
-[out#0/gif @ 000002445357dd40] video:213KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.009169%
-frame=    4 fps=0.0 q=-0.0 Lsize=     213KiB time=00:00:01.33 bitrate=1308.9kbits/s speed=10.6x    
+[out#0/gif @ 000001a26f15cc40] video:212KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.009204%
+frame=    4 fps=0.0 q=-0.0 Lsize=     212KiB time=00:00:01.33 bitrate=1303.9kbits/s speed=10.3x    
