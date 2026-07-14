@@ -66,7 +66,7 @@ I also think of myself as multidisciplinary. Rather than staying in a single fie
 
 </table>
 
-<img src="./dialogue_box2.gif" width=700 align="left">
+<img src="./dialogue_box2.gif" width=500 align="left">
 <div align="center">
 
 </div>
