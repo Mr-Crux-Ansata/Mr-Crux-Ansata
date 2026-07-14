@@ -51,7 +51,7 @@
         width="100%">
     </td>
 
-    <td width="65%" valign="top">
+    <td width="65%" >
       <p>
         I'm a Computer Engineering student with a strong interest
         in Digital Design, Computer Architecture, Semiconductors, and Low-Level
