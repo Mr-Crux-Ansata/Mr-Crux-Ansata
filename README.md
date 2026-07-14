@@ -42,36 +42,15 @@
 
 <br>
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table >
   <tr>
-    <td width="35%" align="top">
+    <td width="55%" align="top">
       <img
         src="./dialogue_box2.gif"
         alt="Dialogue"
         width="100%">
     </td>
 
-    <td width="65%">
-      <p>
-        I'm a Computer Engineering student with a strong interest
-        in Digital Design, Computer Architecture, Semiconductors, and Low-Level
-        Systems.
-      </p>
-
-      <p>
-        You'll very often find me at hackathons because, apparently, I love
-        torturing my poor neurons for the sake of the challenge. Jokes aside, I
-        have a constant urge to create, so I'm always looking for projects that
-        test my abilities and push me to learn and adapt.
-      </p>
-
-      <p>
-        I also think of myself as multidisciplinary. Rather than staying within a
-        single field, I enjoy combining concepts from different areas into a
-        single project. After all, a system is made of interconnected pieces
-        working together to create something greater.
-      </p>
-    </td>
   </tr>
 </table>
 
