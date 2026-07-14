@@ -41,6 +41,7 @@
     width = "80%">
 
 <br>
+<hr>
 
 <img src="./dialogue_box2.gif" width="65%" align="left" >
 
