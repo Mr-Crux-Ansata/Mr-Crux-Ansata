@@ -44,7 +44,7 @@
 
 <img src="./dialogue_box2.gif" width="65%" align="left" >
 
-<div align="center">
+<div align="center" width = "20%">
 
 **Who Am I?**
 </div>
