@@ -42,12 +42,10 @@
 
 <br>
 
-<img src="./dialogue_box2.gif" width="40%" align="left" >
-<div align="center">
+<img src="./dialogue_box2.gif" width="60%" align="left" >
 
-</div>
 
-<div align="justify" width = "30%" >
+<div align="justify"  >
 
 I’m a Computer Engineering student with a strong interest in Digital Design, Computer Architecture, Semiconductors, and Low-Level Systems. 
 
