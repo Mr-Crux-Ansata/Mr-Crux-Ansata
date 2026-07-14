@@ -44,14 +44,14 @@
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="35%" valign="top">
+    <td width="35%" align="top">
       <img
         src="./dialogue_box2.gif"
         alt="Dialogue"
         width="100%">
     </td>
 
-    <td width="65%" >
+    <td width="65%">
       <p>
         I'm a Computer Engineering student with a strong interest
         in Digital Design, Computer Architecture, Semiconductors, and Low-Level
