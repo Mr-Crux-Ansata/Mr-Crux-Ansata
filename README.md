@@ -87,6 +87,6 @@ I also think of myself as multidisciplinary. Rather than staying in a single fie
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mr-Crux-Ansata&bg_color=0B1220&color=F7A8C4&title_color=F7A8C4&line=FF8FB8&point=89B4FA&area=true&area_color=89B4FA&border_color=0B1220&hide_border=true&radius=12&hide_title=true)](https://github.com/Mr-Crux-Ansata)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mr-Crux-Ansata&bg_color=0B132B&color=F7B2D0&title_color=F7B2D0&line=FF8FB8&point=8CC8FF&area=true&area_color=6FA8FF&border_color=0B132B&radius=14&hide_border=true&hide_title=true)](https://github.com/Mr-Crux-Ansata)
 
 </div>
