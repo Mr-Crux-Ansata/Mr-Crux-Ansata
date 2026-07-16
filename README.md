@@ -7,7 +7,7 @@
 
 <br>
 
-<div align="center" width = "100%">
+<div align="center" width = "80">
 
 
 <a href="https://www.facebook.com/share/19677LpPK6/" target = "_blank">
