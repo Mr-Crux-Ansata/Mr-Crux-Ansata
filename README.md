@@ -45,16 +45,13 @@
 <img src="./dialogue_box2.gif" width="75%" align="left" >
 
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <div align="center" width = "20%">
 
 **Who Am I?**
 </div>
+<br>
+<br>
+
 
 
 <div align="justify"  >
