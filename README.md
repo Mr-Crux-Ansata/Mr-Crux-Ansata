@@ -7,14 +7,14 @@
 
 <br>
 
-<div align="center" width = "80">
+<div align="center" width = "80%">
 
 
 <a href="https://www.facebook.com/share/19677LpPK6/" target = "_blank">
     <img
         src="./facebook_button.png"
         alt="Mi Facebook"
-        width="25">
+        width="25%">
 </a>
 
 <a href="https://www.instagram.com/thesilvercruz" target = "_blank">
