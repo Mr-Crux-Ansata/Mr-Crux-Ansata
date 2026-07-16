@@ -42,7 +42,7 @@
 
 <hr>
 
-<img src="./dialogue_box2.gif" width="65%" align="left" >
+<img src="./dialogue_box2.gif" width="75%" align="left" >
 
 <div align="center" width = "20%">
 
