@@ -79,11 +79,18 @@ I also think of myself as multidisciplinary. Rather than staying in a single fie
 
 
 <br>
+<hr>
+<div align = "center">
+<img 
+    src = "./inventory.png"
+    alt = "inventory"
+    width = "70%">
 
 <img
     src="./rot.gif"
     alt="rotation"
     width="30%">
+</div>
 
 <div align="center">
 
