@@ -80,11 +80,11 @@ I also think of myself as multidisciplinary. Rather than staying in a single fie
 
 <br>
 <hr>
-<div align = "center">
+<div align = "center" width = "100%">
 <img 
     src = "./inventory.png"
     alt = "inventory"
-    width = "70%">
+    width = "65%">
 
 <img
     src="./rot.gif"
