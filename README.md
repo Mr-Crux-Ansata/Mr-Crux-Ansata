@@ -86,7 +86,7 @@ I also think of myself as multidisciplinary. Rather than staying in a single fie
 <img 
     src = "./inventory.png"
     alt = "inventory"
-    width = "65%">
+    width = "100%">
 
 <img
     src="./rot.gif"
