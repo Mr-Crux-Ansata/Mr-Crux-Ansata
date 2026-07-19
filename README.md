@@ -84,7 +84,7 @@ I also think of myself as multidisciplinary. Rather than staying in a single fie
 <hr>
 <div align = "center" width = "100%">
 <img 
-    src = "./inventory.png"
+    src = "./inv3.png"
     alt = "inventory"
     width = "100%">
 
