@@ -86,10 +86,15 @@ I also think of myself as multidisciplinary. Rather than staying in a single fie
 
 </div>
 
-<div align="center">
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mr-Crux-Ansata&show_icons=true&bg_color=0B0A14&title_color=F6A8C8&text_color=F8F3FF&icon_color=7BC7FF&border_color=241B32&border_radius=16"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Crux-Ansata&layout=compact&bg_color=0B0A14&title_color=F6A8C8&text_color=F8F3FF&border_color=241B32&border_radius=16"/>
+</p>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mr-Crux-Ansata&bg_color=0B132B&color=F7B2D0&title_color=F7B2D0&line=FF8FB8&point=8CC8FF&area=true&area_color=6FA8FF&border_color=0B132B&radius=14&hide_border=true&hide_title=true)](https://github.com/Mr-Crux-Ansata)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mr-Crux-Ansata&background=0B0A14&ring=FF4F97&fire=FF73B3&currStreakLabel=F6A8C8&sideLabels=F8F3FF&dates=7BC7FF&sideNums=F6A8C8&currStreakNum=F6A8C8&border=241B32)](https://git.io/streak-stats)
 
-![](https://raw.githubusercontent.com/Mr-Crux-Ansata/Mr-Crux-Ansata/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mr-Crux-Ansata/Mr-Crux-Ansata/output/github-snake.gif" alt="Snake Animation">
+</p>
 
 </div>
