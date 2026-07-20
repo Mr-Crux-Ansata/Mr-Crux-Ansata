@@ -90,7 +90,7 @@ I also think of myself as multidisciplinary. Rather than staying in a single fie
 [![GitHub Streak](https://streak-stats.demolab.com?user=Mr-Crux-Ansata&background=0B0A14&ring=FF4F97&fire=FF73B3&currStreakLabel=F6A8C8&sideLabels=F8F3FF&dates=7BC7FF&sideNums=F6A8C8&currStreakNum=F6A8C8&border=241B32)](https://git.io/streak-stats)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mr-Crux-Ansata/Mr-Crux-Ansata/output/github-snake.gif" alt="Snake Animation">
+  <img src="https://raw.githubusercontent.com/Mr-Crux-Ansata/Mr-Crux-Ansata/output/github-snake.svg?v=2">
 </p>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mr-Crux-Ansata&bg_color=151222&color=F6A8C8&title_color=F6A8C8&line=FF5CA8&point=7BC7FF&area=true&area_color=5BAEFF&radius=16&hide_border=true&hide_title=true)](https://github.com/Mr-Crux-Ansata)
