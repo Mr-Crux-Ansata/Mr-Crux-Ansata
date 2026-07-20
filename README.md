@@ -74,11 +74,7 @@ I also think of myself as multidisciplinary. Rather than staying in a single fie
 <br>
 <br>
 
-**Work in progress**
-
-
-
-
+**PAO'S ROOM**
 
 <br>
 <hr>
@@ -93,5 +89,7 @@ I also think of myself as multidisciplinary. Rather than staying in a single fie
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mr-Crux-Ansata&bg_color=0B132B&color=F7B2D0&title_color=F7B2D0&line=FF8FB8&point=8CC8FF&area=true&area_color=6FA8FF&border_color=0B132B&radius=14&hide_border=true&hide_title=true)](https://github.com/Mr-Crux-Ansata)
+
+![](https://raw.githubusercontent.com/Mr-Crux-Ansata/Mr-Crux-Ansata/output/github-contribution-grid-snake-dark.svg)
 
 </div>
