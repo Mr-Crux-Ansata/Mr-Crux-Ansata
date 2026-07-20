@@ -84,14 +84,10 @@ I also think of myself as multidisciplinary. Rather than staying in a single fie
 <hr>
 <div align = "center" width = "100%">
 <img 
-    src = "./inv3.png"
+    src = "./INV3BACK.gif"
     alt = "inventory"
     width = "100%">
 
-<img
-    src="./rot.gif"
-    alt="rotation"
-    width="30%">
 </div>
 
 <div align="center">
