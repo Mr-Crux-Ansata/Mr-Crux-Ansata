@@ -18,7 +18,7 @@ jobs:
           github_user_name: Mr-Crux-Ansata
 
           outputs: |
-            dist/github-snake.svg?palette=github-dark&color_snake=FF5CA8&color_dots=%23151222,%2330203C,%234B2D53,%23A45497,%23F6A8C8
+            dist/github-snake.svg?palette=github-dark&color_snake=%23FF5CA8&color_dots=%23090B16,%2330203C,%234B2D53,%23A45497,%23F8A5C2
 
       - uses: peaceiris/actions-gh-pages@v4
         with:
