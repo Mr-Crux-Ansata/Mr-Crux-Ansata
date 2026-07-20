@@ -20,7 +20,7 @@ jobs:
       with:
         github_user_name: Mr-Crux-Ansata
         outputs: |
-          dist/github-contribution-grid-snake-dark.svg?palette=090B16-151B35-304A6E-6CB6FF-F8A5C2
+          dist/github-contribution-grid-snake-dark.svg?color_snake=#F8A5C2&color_dots=#090B16,#151B35,#304A6E,#6CB6FF,#F8A5C2
 
     - uses: crazy-max/ghaction-github-pages@v3
       with:
