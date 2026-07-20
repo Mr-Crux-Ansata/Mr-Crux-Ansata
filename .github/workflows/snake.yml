@@ -3,14 +3,13 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 */12 * * *"
-
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  build:
+  snake:
     runs-on: ubuntu-latest
 
     steps:
@@ -19,11 +18,10 @@ jobs:
           github_user_name: Mr-Crux-Ansata
 
           outputs: |
-            dist/github-snake.gif?palette=github-dark&color_snake=FF73B3&color_dots=#161B22,#241B32,#4B2D53,#FF4F97,#F6A8C8
+            dist/github-snake.svg?palette=github-dark&color_snake=FF5CA8&color_dots=%23151222,%2330203C,%234B2D53,%23A45497,%23F6A8C8
 
-      - uses: crazy-max/ghaction-github-pages@v3
+      - uses: peaceiris/actions-gh-pages@v4
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: dist
+          publish_branch: output
