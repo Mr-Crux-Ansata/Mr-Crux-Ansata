@@ -69,15 +69,6 @@ I also think of myself as multidisciplinary. Rather than staying in a single fie
 
 </div>
 
-<hr>
-
-<br>
-<br>
-
-**PAO'S ROOM**
-
-<br>
-<hr>
 <div align = "center" width = "100%">
 <img 
     src = "./INV3BACK.gif"
