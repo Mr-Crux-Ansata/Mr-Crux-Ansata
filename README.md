@@ -68,6 +68,7 @@ I also think of myself as multidisciplinary. Rather than staying in a single fie
 </font>
 
 </div>
+<br>
 
 <div align = "center" width = "100%">
 <img 
