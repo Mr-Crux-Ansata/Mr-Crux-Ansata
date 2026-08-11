@@ -79,8 +79,6 @@ I also think of myself as multidisciplinary. Rather than staying in a single fie
 </div>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mr-Crux-Ansata&background=0B0A14&ring=FF4F97&fire=FF73B3&currStreakLabel=F6A8C8&sideLabels=F8F3FF&dates=7BC7FF&sideNums=F6A8C8&currStreakNum=F6A8C8&border=241B32)](https://git.io/streak-stats)
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Mr-Crux-Ansata/Mr-Crux-Ansata/output/github-snake.svg?v=2">
 </p>
