@@ -65,6 +65,8 @@ You’ll very often find me at Hackatons, as apparently, I love torturing my poo
 
 I also think of myself as multidisciplinary. Rather than staying in a single field, I enjoy combining concepts from different areas into a single project. After all, a system is made from interconnected pieces that, all put together, make up for something greater.
 
+(Extra: As you lot may have probably noticed, I also love, love LOVE to draw, so I'll often incorporate that into my things)
+
 </font>
 
 </div>
