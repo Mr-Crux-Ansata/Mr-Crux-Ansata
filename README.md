@@ -87,13 +87,14 @@ I also think of myself as multidisciplinary. Rather than staying in a single fie
 </p>
 
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mr-Crux-Ansata&bg_color=151222&color=F6A8C8&title_color=F6A8C8&line=FF5CA8&point=7BC7FF&area=true&area_color=5BAEFF&radius=16&hide_border=true&hide_title=true)](https://github.com/Mr-Crux-Ansata)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mr-Crux-Ansata)](https://github.com/ryo-ma/github-profile-trophy)
-
-![](https://komarev.com/ghpvc/?username=Mr-Crux-Ansata)
-
-[![AgriRiego](https://github-readme-stats.vercel.app/api/pin/?username=Mr-Crux-Ansata&repo=agroriego-server-pao)](https://github.com/Mr-Crux-Ansata/agroriego-server-pao)
+<img
+    src="https://gitstrength.netlify.app/api/card?username=Mr-Crux-Ansata"
+    alt="GitHub Stats"
+    width="80%">
+<img
+    src="https://gitstrength.netlify.app/api/skill-set-card?skills=Verilog,SystemVerilog,C%2B%2B,Python,FPGA,RISC-V"
+    alt="Skills"
+    width="80%">
 
 
 
