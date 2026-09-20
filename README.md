@@ -88,6 +88,12 @@ I also think of myself as multidisciplinary. Rather than staying in a single fie
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mr-Crux-Ansata&bg_color=151222&color=F6A8C8&title_color=F6A8C8&line=FF5CA8&point=7BC7FF&area=true&area_color=5BAEFF&radius=16&hide_border=true&hide_title=true)](https://github.com/Mr-Crux-Ansata)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mr-Crux-Ansata)](https://github.com/ryo-ma/github-profile-trophy)
+
+![](https://komarev.com/ghpvc/?username=Mr-Crux-Ansata)
+
+[![juego-ppt](https://github-readme-stats.vercel.app/api/pin/?username=Mr-Crux-Ansata&repo=agroriego-server-pao)](https://github.com/Mr-Crux-Ansata/agroriego-server-pao)
+
 </div>
 
 
