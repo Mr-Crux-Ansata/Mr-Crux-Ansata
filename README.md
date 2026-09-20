@@ -87,11 +87,7 @@ I also think of myself as multidisciplinary. Rather than staying in a single fie
 </p>
 
 
-<img
-    src="https://gitstrength.netlify.app/api/card?username=Mr-Crux-Ansata"
-    alt="GitHub Stats"
-    width="80%">
-<img
+</div>
     src="https://gitstrength.netlify.app/api/skill-set-card?skills=Verilog,SystemVerilog,C%2B%2B,Python,FPGA,RISC-V"
     alt="Skills"
     width="80%">
