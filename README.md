@@ -86,7 +86,7 @@ I also think of myself as multidisciplinary. Rather than staying in a single fie
   <img src="https://raw.githubusercontent.com/Mr-Crux-Ansata/Mr-Crux-Ansata/output/github-snake.svg?v=2">
 </p>
 
-[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=Mr-Crux-Ansata&theme=tokyonight)](https://github.com/your-Mr-Crux-Ansata)
+[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=Mr-Crux-Ansata&theme=dracula&headerStyle=windows)](https://github.com/your-Mr-Crux-Ansata)
 
 
 </div>
