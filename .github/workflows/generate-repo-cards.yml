@@ -20,9 +20,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v6
         with:
-          ref: main
           fetch-depth: 0
-          token: ${{ secrets.GITHUB_TOKEN }}
+          ref: main
+
+      - name: Sync with latest main
+        run: |
+          git fetch origin main
+          git reset --hard origin/main
 
       - name: Generate CVE repository card
         uses: stats-organization/github-readme-stats-action@v2
@@ -32,7 +36,7 @@ jobs:
           path: assets/cve-vulnerability-classifier.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit and push card
+      - name: Commit card
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
