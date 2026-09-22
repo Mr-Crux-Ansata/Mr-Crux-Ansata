@@ -32,7 +32,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=Mr-Crux-Ansata&repo=cve-vulnerability-classifier&theme=dracula&show_owner=true&description_lines_count=3
+          options: username=Mr-Crux-Ansata&repo=cve-vulnerability-classifier&bg_color=282A36&title_color=FF79C6&text_color=F8F8F2&icon_color=BD93F9&border_color=6272A4&show_owner=true&description_lines_count=3
           path: assets/cve-vulnerability-classifier.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
