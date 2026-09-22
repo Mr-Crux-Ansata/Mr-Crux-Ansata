@@ -92,7 +92,7 @@ I also think of myself as multidisciplinary. Rather than staying in a single fie
 
 <a href="https://github.com/Mr-Crux-Ansata/cve-vulnerability-classifier">
   <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Crux-Ansata&repo=cve-vulnerability-classifier&theme=tokyonight&hide_border=true"
+    src="./assets/cve-vulnerability-classifier.svg"
     width="400"
   />
 </a>
