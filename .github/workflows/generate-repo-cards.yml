@@ -20,7 +20,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=Mr-Crux-Ansata&repo=cve-vulnerability-classifier&theme=dracula
+          options: options: username=Mr-Crux-Ansata&repo=cve-vulnerability-classifier&theme=dracula&show_owner=false&description_lines_count=2
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit card
