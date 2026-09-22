@@ -26,6 +26,13 @@ jobs:
 
       - name: Commit card
         run: |
+          echo "LOCAL:"
+          git log -1 --oneline
+          echo "REMOTE:"
+          git fetch origin main
+          git log origin/main -1 --oneline
+          echo "STATUS:"
+          git status
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
@@ -34,5 +41,6 @@ jobs:
           git diff --cached --quiet && exit 0
 
           git commit -m "Update repository card"
+          
 
           git push origin HEAD:main
