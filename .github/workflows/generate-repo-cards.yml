@@ -20,7 +20,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=Mr-Crux-Ansata&repo=cve-vulnerability-classifier&title_color=FF4F9A&text_color=FFF0F6&icon_color=FF9FC2&bg_color=211923&border_color=FF4F9A&hide_border=false&border_radius=6&show_owner=false&description_lines_count=2
+          options: username=Mr-Crux-Ansata&repo=cve-vulnerability-classifier&show_owner=true&description_lines_count=3
           path: assets/cve-vulnerability-classifier.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
