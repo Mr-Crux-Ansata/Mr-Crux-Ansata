@@ -88,6 +88,22 @@ I also think of myself as multidisciplinary. Rather than staying in a single fie
 
 [![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=Mr-Crux-Ansata&theme=Dracula&headerStyle=windows&typingSpeed=80&hostname=github.com&commands=whoami%2Cneofetch%2Clanguages%2Cuptime%2Ctop-repos%2Cexit)](https://github.com/Mr-Crux-Ansata)
 
+<h2>Featured Projects</h2>
+
+<a href="https://github.com/Mr-Crux-Ansata/cve-vulnerability-classifier">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Crux-Ansata&repo=cve-vulnerability-classifier&theme=tokyonight"
+    width="400"
+  />
+</a>
+
+<a href="https://github.com/Mr-Crux-Ansata/OTRO-REPO">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Crux-Ansata&repo=OTRO-REPO&theme=tokyonight"
+    width="400"
+  />
+</a>
+
 
 </div>
 
