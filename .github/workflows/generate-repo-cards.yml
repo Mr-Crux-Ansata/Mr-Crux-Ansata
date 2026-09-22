@@ -1,36 +1,36 @@
 name: Generate Repository Cards
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
 
 jobs:
-  generate-cards:
+  generate-card:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+
     steps:
-      - name: Checkout profile repository
-        uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v6
 
-      - name: Generate CVE Vulnerability Classifier card
-        run: |
-          mkdir -p assets
+      - name: Generate CVE repository card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=Mr-Crux-Ansata&repo=cve-vulnerability-classifier&theme=tokyonight&hide_border=true
+          path: assets/cve-vulnerability-classifier.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-          curl -L \
-            "https://github-readme-stats.vercel.app/api/pin/?username=Mr-Crux-Ansata&repo=cve-vulnerability-classifier&theme=tokyonight&hide_border=true" \
-            -o assets/cve-vulnerability-classifier.svg
-
-      - name: Commit generated cards
+      - name: Commit card
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add assets/
+          git add assets/cve-vulnerability-classifier.svg
 
-          git diff --cached --quiet || git commit -m "Update repository cards"
+          git diff --cached --quiet || git commit -m "Update repository card"
 
           git push
