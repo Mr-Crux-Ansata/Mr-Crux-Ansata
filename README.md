@@ -88,14 +88,12 @@ I also think of myself as multidisciplinary. Rather than staying in a single fie
 
 <h2>Featured Projects</h2>
 <br>
-<div style="display: flex; gap: 150px;">
 <a href="https://github.com/Mr-Crux-Ansata/cve-vulnerability-classifier">
-    <img src="./assets/cve-vulnerability-classifier.svg" alt="CVE Vulnerability Classifier">
+    <img src="./assets/cve-vulnerability-classifier.svg" alt="CVE Vulnerability Classifier" hspace="10">
 </a>
 <a href="https://github.com/Mr-Crux-Ansata/Agroriego">
-    <img src="./assets/Agroriego.svg" alt="Agroriego">
+    <img src="./assets/Agroriego.svg" alt="Agroriego" hspace="10">
 </a>
-</div>
 <br>
 <br>
 
