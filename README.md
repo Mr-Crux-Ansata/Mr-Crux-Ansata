@@ -97,7 +97,7 @@ I also think of myself as multidisciplinary. Rather than staying in a single fie
 <br>
 <br>
 
-[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=yogeshwaran01&theme=dracula&headerStyle=mac&typingSpeed=99&hostname=github.com&commands=whoami%2Cneofetch%2Clanguages%2Cuptime%2Cexit)](https://github.com/yogeshwaran01)
+[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=Mr-Crux-Ansata&theme=dracula&headerStyle=mac&typingSpeed=99&hostname=github.com&commands=whoami%2Cneofetch%2Clanguages%2Cuptime%2Cexit)](https://github.com/yogeshwaran01)
 
 
 
